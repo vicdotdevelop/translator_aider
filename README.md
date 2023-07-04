@@ -7,13 +7,13 @@ This is a simple Streamlit app that translates English text to German using the 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/translation-app.git
+   git clone https://github.com/vicdotdevelop/translator_aider.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd translation-app
+   cd translator_aider
    ```
 
 3. Install the required dependencies using pip:
